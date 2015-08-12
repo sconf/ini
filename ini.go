@@ -7,7 +7,7 @@ package ini // import "gopkg.in/sconf/ini.v0"
 import (
 	"io/ioutil"
 
-	"gopkg.in/sconf/internal.v0/internal"
+	"gopkg.in/sconf/internal.v0/internal_"
 )
 
 func File(name string) internal.IdemReader {
